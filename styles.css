@@ -106,7 +106,7 @@ width:200px ;
 height:300px ;
 }
 
-table, th, td {
+table, th, td, tr {
   color: white;
   border: 1px solid white;
   padding: 10px;
@@ -114,7 +114,7 @@ table, th, td {
 }
 
 
-main {
+main,footer {
     color:white;
 }
 
